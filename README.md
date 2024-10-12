@@ -10,5 +10,7 @@ The ETL-Pipeline-automation Project is designed to extract, transform, and load 
 - **Database** : Snowflake
 - **File Handling** : CSV files
 
-  ## Features:
-  
+## Features:
+
+## ETL Flow Diagram
+![ETL Flow Diagram](Automate-etl-pipeline.jpg)
