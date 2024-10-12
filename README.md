@@ -3,6 +3,9 @@
 ## Overview
 This project automates the process of Extracting, Transforming, and Loading (ETL) product data from CSV files into a Snowflake database using Apache Airflow. The pipeline ensures efficient handling of large datasets, automating the flow of data through scheduled and monitored processes, with retries for error handling.
 
+## Architecture
+![ETL Flow Diagram](Automate-etl-pipeline.jpg)
+
 ## Technologies used
 - **Programming Language** : Python
 - **Data Processing** : Pandas
@@ -21,5 +24,3 @@ Snowflake Integration: Successfully integrates and loads transformed data into a
 
 Orchestration with Airflow: Airflow DAGs automate the ETL flow, managing task scheduling, logging, and retry mechanisms, ensuring proper task execution and reliability.
 
-## ETL Flow Diagram
-![ETL Flow Diagram](Automate-etl-pipeline.jpg)
