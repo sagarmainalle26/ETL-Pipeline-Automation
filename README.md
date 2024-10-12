@@ -24,3 +24,5 @@ Snowflake Integration: Successfully integrates and loads transformed data into a
 
 Orchestration with Airflow: Airflow DAGs automate the ETL flow, managing task scheduling, logging, and retry mechanisms, ensuring proper task execution and reliability.
 
+## Dataset Used
+https://www.kaggle.com/datasets/ahmedsayed564/amazon-sales-dataset
