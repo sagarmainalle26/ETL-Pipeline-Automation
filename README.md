@@ -13,7 +13,7 @@ This project automates the process of Extracting, Transforming, and Loading (ETL
 - **Database** : Snowflake
 - **File Handling** : CSV files
 
-## Description:
+## Features:
 Automated ETL Process: Designed a robust automated ETL pipeline using Apache Airflow that handles the full process from file extraction to loading in the Snowflake database.
 
 Data Extraction: Efficiently extracts product data from CSV files, handling large datasets seamlessly with built-in error handling to ensure smooth execution.
