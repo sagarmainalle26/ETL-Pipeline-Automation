@@ -26,3 +26,6 @@ Orchestration with Airflow: Airflow DAGs automate the ETL flow, managing task sc
 
 ## Dataset Used
 https://www.kaggle.com/datasets/ahmedsayed564/amazon-sales-dataset
+
+## Conclusion
+The ETL pipeline automation project efficiently extracts, transforms, and loads large datasets from CSV files into Snowflake using Apache Airflow. By integrating Python, Pandas, and Snowflake, the pipeline ensures high performance, scalability, and reliability. Airflow automates scheduling, monitoring, and error handling, making the process seamless. This project demonstrates an effective solution for managing large-scale data efficiently, reducing manual intervention, and ensuring data readiness for analytics.
