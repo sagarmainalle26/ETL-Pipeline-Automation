@@ -1,4 +1,4 @@
-# ETL-Pipeline-Automation
+# Automated ETL Pipeline for E-commerce Data
 
 ## Overview
 This project automates the process of Extracting, Transforming, and Loading (ETL) product data from CSV files into a Snowflake database using Apache Airflow. The pipeline ensures efficient handling of large datasets, automating the flow of data through scheduled and monitored processes, with retries for error handling.
